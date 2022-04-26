@@ -135,7 +135,7 @@ export const defaultIconState = [
   {
     id: 3,
     icon: notepadLarge,
-    title: 'Notepad',
+    title: 'Niggers',
     component: Notepad,
     isFocus: false,
   },
